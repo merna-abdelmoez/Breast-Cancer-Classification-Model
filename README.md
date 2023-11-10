@@ -19,3 +19,6 @@ The project follows a structured methodology:
 
 2. **Model Training:**
    - Implement the Naive Bayes classifier for binary classification.
+
+3. **Performance Evaluation:**
+   - Assess the model's performance using accuracy as the evaluation metric.
