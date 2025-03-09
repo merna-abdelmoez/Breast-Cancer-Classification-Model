@@ -29,7 +29,7 @@ The project follows a structured methodology:
     <td align="center">
       <div style="text-align:center; margin-right:20px;">
         <a href="https://github.com/merna-abdelmoez">
-          <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@OmarEmad101">
+          <img src="https://github.com/merna-abdelmoez.png" width="200px" alt="@merna-abdelmoez">
           <br>
           <sub><b>Merna AbdElMoez</b></sub>
         </a>
@@ -38,7 +38,7 @@ The project follows a structured methodology:
     <td align="center">
       <div style="text-align:center; margin-right:20px;">
         <a href="https://github.com/Habiba-Mohsen">
-          <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="@Omarnbl">
+          <img src="https://github.com/Habiba-Mohsen.png" width="200px" alt="@Habiba-Mohsen">
           <br>
           <sub><b>Habiba Mohsen</b></sub>
         </a>
